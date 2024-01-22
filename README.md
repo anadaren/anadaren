@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ana, a VR and games programmer.
+
 <!--
 **anadaren/anadaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
