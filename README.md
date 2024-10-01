@@ -1,10 +1,10 @@
-### <h1>Hi there 👋<h1>
-
-![pixelme](https://github.com/user-attachments/assets/ef3b2aac-747c-42b5-bf7d-470902301146)
+<h1>Hi there 👋</h1>
 
 I'm Ana, a game dev and software engineer.
 
 Visit my <a href="https://anadaren.github.io/">portfolio<a>!
+
+<img src="https://github.com/user-attachments/assets/ef3b2aac-747c-42b5-bf7d-470902301146">
 
 # <h3>Things I like to do:</h3>
 <ul>
@@ -39,6 +39,9 @@ Visit my <a href="https://anadaren.github.io/">portfolio<a>!
 
 <br>
 Enjoy your stay!
+
+
+<p align="center"><img src="https://github.com/user-attachments/assets/29284e43-44ca-4db7-84e2-c502c3d15f06"></p>
 
 
 <!--
